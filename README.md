@@ -27,7 +27,7 @@ Please install these libraries first:
 
 2. SparkFunSi4703.h
 
-3. include Wire.h
+3. Wire.h
 
 4. EEPROM.h
 
