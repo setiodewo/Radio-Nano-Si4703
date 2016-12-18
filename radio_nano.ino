@@ -1,5 +1,6 @@
 // Eldario v2 adapted by Emanuel Setio Dewo
 // More info at http://dewo.wordpress.com
+// Please install these required library first
  
 #include <RTClib.h>
 #include <SparkFunSi4703.h>
