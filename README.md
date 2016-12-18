@@ -20,3 +20,15 @@ This radio is designed using:
 8. Some pasive components
 
 Schematic: https://dewo.files.wordpress.com/2016/12/dewo_radio_si4703_pcb_v2_schem.png
+
+Please install these libraries first:
+
+1. RTClib.h
+
+2. SparkFunSi4703.h
+
+3. include Wire.h
+
+4. EEPROM.h
+
+5. LiquidCrystal_PCF8574.h
