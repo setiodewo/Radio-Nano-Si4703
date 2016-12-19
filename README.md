@@ -3,6 +3,7 @@ FM Radio with Arduino Nano and Si4703
 More info at https://dewo.wordpress.com/2016/12/08/eldario-versi-2-radio-fm-jam/
 
 This radio is designed using:
+
 1. Arduino Nano
 
 2. Silicon Labs Si4703 Radio FM Module
